@@ -1,0 +1,9 @@
+.a-FS-bodyInner .apex-item-checkbox {
+    max-height: 320px;
+    overflow: auto;
+}
+
+.no-item-ui {
+    --a-field-input-border-width: 0px;
+    --a-field-input-background-color: transparent;
+}
