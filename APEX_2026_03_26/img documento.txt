@@ -4,7 +4,7 @@ categoria
 
 documento
   titolo vc50 /nn
-  descrizione vc4k /nn
+  descrizione /nn
   data d /nn
   immagine file
   categoria_id
