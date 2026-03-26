@@ -1,0 +1,15 @@
+posts 
+    post_comment vc4000
+    file_blob blob
+    file_mime vc255
+    file_name vc255
+    lat num
+    lon num
+
+reactions 
+    post_id
+    reaction vc16
+    lat num
+    lon num
+
+ # settings = {auditcols:true,"prefix":"sm","pk":"IDENTITY"}   
