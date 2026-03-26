@@ -1,0 +1,11 @@
+categoria
+  categoria vc30 /nn
+
+
+documento
+  titolo vc50 /nn
+  descrizione vc4k /nn
+  data d /nn
+  immagine file
+  categoria_id
+# settings = {drop:true, auditcols:true, prefix:img, "apex":"Y","db":"23","pk":"IDENTITY"}
