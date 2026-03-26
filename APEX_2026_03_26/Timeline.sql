@@ -4,7 +4,7 @@ select
  p.post_comment AS comment_text,
  p.document,
  p.document_mimetype,
-
+ p.document_lastupd,
  apex_util.get_since(p.created) post_date,
 
  (
