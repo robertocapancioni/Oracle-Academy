@@ -1,8 +1,6 @@
 posts 
     post_comment vc4000
-    file_blob blob
-    file_mime vc255
-    file_name vc255
+    document file
     lat num
     lon num
 
@@ -12,4 +10,4 @@ reactions
     lat num
     lon num
 
- # settings = {auditcols:true,"prefix":"sm","pk":"IDENTITY"}   
+ # settings = {auditcols:true,"prefix":"sm","pk":"IDENTITY"}      
